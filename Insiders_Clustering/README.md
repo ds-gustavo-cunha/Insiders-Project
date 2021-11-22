@@ -72,40 +72,62 @@ https://www.kaggle.com/vik2012kvs/high-value-customers-identification
 
 - **Online Dashboard** with Insiders information
 - **Report** with answers to the following business questions:
+
 -- *Who are the people eligible to participate in the Insiders program?*
+
 -- *How many customers will be part of the group?*
+
 -- *What are the main characteristics of these customers?*
+
 -- *What is the percentage of revenue contribution that comes from the Insiders group?*
+
 -- *What are the conditions for a person to be eligible for the Insiders program?*
+
 -- *What are the conditions for a person to be removed from the Insiders program?*
 
 ### Tasks
 - Who are the people eligible to participate in the Insiders program? 
+
 -- What does "be eligible" mean? What exactly is a "high-value customer" for the company?
+
 -- We assume that high-value is a synonym of Lifetime Value (LTV)
 
 - How many customers will be part of the group?
+
 -- Determine Insiders cluster
+
 -- Count how many customers there are in this group
+
 -- Count percentage of the Insiders customers to the total number of customers
 
 - What are the main characteristics of these customers?
+
 -- Determine Insiders cluster
+
 -- Describe Insiders customers in terms of average purchase characteristics
 
 - What is the percentage of revenue contribution that comes from the Insiders group?
+
 -- Determine Insiders cluster
+
 -- Determine Insiders cluster revenue contribution
+
 -- Determine total revenue for all clusters
 
 - What are the conditions for a person to be eligible for the Insiders program?
+
 -- Determine Insiders cluster
+
 -- Determine what time interval must be considered for eligibility.
+
 -- Determine, in terms of purchase behaviour, how close to the centroid of Insiders cluster a customer must be to be considered as Insider
 
 - What are the conditions for a person to be removed from the Insiders program?
+
 -- Determine Insiders cluster
+
 -- Determine what time interval must be considered for eligibility
+
 -- Determine, in terms of purchase behaviour, how far from the centroid of the Insiders cluster an Insider customer is allowed to deviate
 
 
