@@ -187,9 +187,9 @@ Plan deployment architecture and implement it.
 
 ![deployment-architecture](img/deployment_architecture.png)
 
-**You can check the final dashboard for this cycle at the following link**
+**You can check the final dashboard for this cycle at the following image**
 
-http://insiders-project.herokuapp.com/public/dashboard/bf29cd43-922f-4a0c-bc2f-27d9d8336e29
+![metabase-dashboard](img/Insiders-Metabase-Dashboard-White-Theme.png)
 
 
 # **CONCLUSIONS**
