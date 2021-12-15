@@ -191,6 +191,10 @@ Plan deployment architecture and implement it.
 
 ![metabase-dashboard](img/Insiders-Metabase-Dashboard-White-Theme.png)
 
+**You can check one email with the loggings of the data pipeline scheduled on the AWS cloud at the following image**
+
+![logging-email](img/logging_email.png)
+
 **You can check the webpage where users will upload csv files to the data architecture at the following link**
 
 https://share.streamlit.io/ds-gustavo-cunha/insiders-streamlit-s3/streamlit-app.py
