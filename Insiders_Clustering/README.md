@@ -191,6 +191,10 @@ Plan deployment architecture and implement it.
 
 ![metabase-dashboard](img/Insiders-Metabase-Dashboard-White-Theme.png)
 
+**You can check the webpage where users will upload csv files to the data architecture at the following link**
+
+https://share.streamlit.io/ds-gustavo-cunha/insiders-streamlit-s3/streamlit-app.py
+
 
 # **CONCLUSIONS**
 
@@ -206,7 +210,9 @@ Clustering projects require lots of exploration and also business intuition so a
 
 **How to use the AWS solutions (S3, EC2 and RDS) to create a more robust data science solution for the company.**
 
-**How to create a Metabase dashboard and host it on Heroku cloud.**
+**How to create a Metabase dashboard with answers to the business questions.**
+
+**How to use Airflow to schedule the data pipeline.**
 
 **Create an interim solution so as to give the business team something to work on until a more elaborate solution is delivered.**
 
@@ -218,11 +224,9 @@ Clustering projects require lots of exploration and also business intuition so a
 
 # **NEXT STEPS TO IMPROVE**
 
-**Streamlit**: create a user-friendly webpage with Streamlit so that users can upload data via a link. Validate this data before sending it to AWS S3 bucket
-
-**Scheduler**: ask the business team how often the ML model must run and schedule it on AWS EC2.
-
 **Dashboard**: ask the business team what is the most relevant information for the Metabase dashboard and create a new one.
+
+**Feature engineering**: create more features and test if they will be relevant to the machine learning model.
 
 **Embeddings**: test different embeddings so data can be more easily clusterized by ML models.
 
